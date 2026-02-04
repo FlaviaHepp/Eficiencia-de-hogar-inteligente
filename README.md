@@ -115,8 +115,8 @@ Ambos enfoques permitieron mejorar la estabilidad y el rendimiento del modelo fi
 - **imbalanced-learn (SMOTE)**
 - **XGBoost**
 - **LightGBM**
-- **CatBoost**
-- **matplotlib, seaborn**
+- `**CatBoost**`
+- **matplotlib, `seaborn**`
 
 ---
 
