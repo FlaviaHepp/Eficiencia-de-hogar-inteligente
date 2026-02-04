@@ -78,7 +78,7 @@ Se entrenaron y compararon múltiples clasificadores para identificar el mejor d
 - Gradient Boosting
 - XGBoost
 - LightGBM
-- CatBoost
+- `CatBoost`
 
 Cada modelo fue evaluado utilizando:
 - Accuracy
