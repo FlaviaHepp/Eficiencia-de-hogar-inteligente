@@ -1,6 +1,3 @@
-# Eficiencia-de-hogar-inteligente
-Predicción de la eficiencia del hogar inteligente
-
 # Predicción de eficiencia del hogar inteligente usando Machine Learning
 
 Este proyecto desarrolla un sistema de **predicción de eficiencia en hogares inteligentes** utilizando datos de uso de dispositivos IoT y técnicas avanzadas de **machine learning supervisado**.
@@ -143,6 +140,5 @@ Ambos enfoques permitieron mejorar la estabilidad y el rendimiento del modelo fi
 ---
 
 ## 👤 Autor
-
 **Flavia Hepp**  
 Data Scientist en formación  
